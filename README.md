@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theguptaji
+- 👀 I’m interested in Web application development and cloud infra.
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Anything edtech related
+- 📫 How to reach me: twitter @syilvr
